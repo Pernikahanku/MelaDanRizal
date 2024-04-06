@@ -89,10 +89,10 @@ img.card-img-top {
 h1.display-12.text-center {
   padding: 3.2rem 0;
   background-image: url(../../assets/images/ornam/Asset7a.png);
-  background-repeat: no-repeat;
-  background-position: top 15px center;
-  font-size: 35px;
-  color: #fff;
+    background-repeat: no-repeat;
+    background-position: top 8px center;
+    font-size: 32px;
+    color: #fff;
 }
 h2.fs-5 {
   color: #fff;
