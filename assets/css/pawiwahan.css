@@ -346,3 +346,6 @@ figcaption {
 .carousel-inner {
     margin-top: 55px;
 }
+.btn-outline-success {
+    background: #fff;
+}
