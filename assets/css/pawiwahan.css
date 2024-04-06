@@ -343,3 +343,6 @@ figcaption {
   cursor: pointer;
   user-select: none;
 }
+.carousel-inner {
+    margin-top: 55px;
+}
